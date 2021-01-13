@@ -1,0 +1,61 @@
+[10-Apr-2018 01:57:48 UTC] PHP Notice:  Undefined index: id in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 5
+[10-Apr-2018 01:57:48 UTC] PHP Notice:  Undefined variable: emai_tecnico in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 16
+[10-Apr-2018 01:57:48 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 22
+[10-Apr-2018 02:00:36 UTC] PHP Notice:  Undefined index: id in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 5
+[10-Apr-2018 02:00:36 UTC] PHP Notice:  Undefined variable: emai_tecnico in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 16
+[10-Apr-2018 02:00:36 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 22
+[10-Apr-2018 02:02:17 UTC] PHP Notice:  Undefined variable: emai_tecnico in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 16
+[10-Apr-2018 02:02:17 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 22
+[10-Apr-2018 02:03:06 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 22
+[10-Apr-2018 02:05:16 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 22
+[10-Apr-2018 02:05:40 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 22
+[10-Apr-2018 02:06:00 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 22
+[28-May-2018 03:03:32 UTC] PHP Notice:  Undefined index: me in /home/u894051160/public_html/gestaochamados/android_api/changeStatus.php on line 6
+[28-May-2018 03:03:32 UTC] PHP Notice:  Undefined variable: id in /home/u894051160/public_html/gestaochamados/android_api/changeStatus.php on line 10
+[28-May-2018 03:03:32 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados/android_api/changeStatus.php on line 12
+[28-May-2018 03:03:32 UTC] PHP Warning:  mysqli::query(): Empty query in /home/u894051160/public_html/gestaochamados/android_api/changeStatus.php on line 12
+[28-May-2018 03:04:24 UTC] PHP Notice:  Undefined variable: id in /home/u894051160/public_html/gestaochamados/android_api/changeStatus.php on line 8
+[28-May-2018 03:04:24 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados/android_api/changeStatus.php on line 10
+[28-May-2018 03:04:24 UTC] PHP Warning:  mysqli::query(): Empty query in /home/u894051160/public_html/gestaochamados/android_api/changeStatus.php on line 10
+[28-May-2018 03:05:56 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados/android_api/changestatus.php on line 13
+[28-May-2018 03:05:56 UTC] PHP Warning:  mysqli::query(): Empty query in /home/u894051160/public_html/gestaochamados/android_api/changestatus.php on line 13
+[28-May-2018 03:06:38 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados/android_api/changestatus.php on line 13
+[28-May-2018 03:06:38 UTC] PHP Warning:  mysqli::query(): Empty query in /home/u894051160/public_html/gestaochamados/android_api/changestatus.php on line 13
+[28-May-2018 03:07:06 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados/android_api/changestatus.php on line 13
+[28-May-2018 03:07:06 UTC] PHP Warning:  mysqli::query(): Empty query in /home/u894051160/public_html/gestaochamados/android_api/changestatus.php on line 13
+[01-Jun-2018 08:19:53 UTC] PHP Notice:  Undefined index: email in /home/u894051160/public_html/gestaochamados/android_api/setlocation.php on line 6
+[01-Jun-2018 09:05:15 UTC] PHP Notice:  Undefined variable: email in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 12
+[01-Jun-2018 09:05:40 UTC] PHP Notice:  Undefined variable: email in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 12
+[01-Jun-2018 09:14:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 9
+[01-Jun-2018 09:29:37 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 11
+[01-Jun-2018 09:33:25 UTC] PHP Notice:  Undefined variable: email in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 12
+[01-Jun-2018 09:46:11 UTC] PHP Notice:  Undefined variable: email in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 12
+[01-Jun-2018 09:46:53 UTC] PHP Notice:  Undefined variable: email in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 12
+[01-Jun-2018 09:47:38 UTC] PHP Notice:  Undefined variable: email in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 12
+[01-Jun-2018 09:47:53 UTC] PHP Notice:  Undefined variable: email in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 12
+[14-Jun-2018 06:28:58 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 2
+[14-Jun-2018 06:30:31 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 4
+[14-Jun-2018 06:34:13 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 6
+[14-Jun-2018 06:48:24 UTC] PHP Fatal error:  Function name must be a string in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 6
+[14-Jun-2018 06:49:59 UTC] PHP Fatal error:  Function name must be a string in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 6
+[14-Jun-2018 06:50:58 UTC] PHP Fatal error:  Function name must be a string in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 6
+[14-Jun-2018 06:51:05 UTC] PHP Fatal error:  Function name must be a string in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 6
+[14-Jun-2018 06:53:06 UTC] PHP Fatal error:  Function name must be a string in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 6
+[14-Jun-2018 06:59:50 UTC] PHP Fatal error:  Function name must be a string in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 7
+[14-Jun-2018 07:03:17 UTC] PHP Fatal error:  Function name must be a string in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 20
+[14-Jun-2018 07:40:13 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 18
+[14-Jun-2018 07:43:37 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 07:43:55 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 07:44:12 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 07:46:15 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 07:58:53 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 08:00:11 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 08:02:18 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 08:04:32 UTC] PHP Notice:  Undefined variable: image1 in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 21
+[14-Jun-2018 08:15:40 UTC] PHP Notice:  Undefined variable: name in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 25
+[14-Jun-2018 08:16:51 UTC] PHP Notice:  Undefined variable: name in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 25
+[14-Jun-2018 08:22:36 UTC] PHP Notice:  Undefined variable: name in /home/u894051160/public_html/gestaochamados/android_api/upload-photos.php on line 25
+[15-Jun-2018 17:43:37 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 19
+[15-Jun-2018 17:47:16 UTC] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/u894051160/public_html/gestaochamados/android_api/getchamados.php on line 19
+[17-Jun-2018 19:52:11 UTC] PHP Parse error:  syntax error, unexpected 'POST' (T_STRING) in /home/u894051160/public_html/gestaochamados/android_api/setToken.php on line 2
+[17-Jun-2018 19:59:29 UTC] PHP Notice:  Undefined index: id in /home/u894051160/public_html/gestaochamados/android_api/FCMNotification.php on line 4

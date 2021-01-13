@@ -1,0 +1,15 @@
+[06-Jun-2018 22:00:27 UTC] PHP Parse error:  syntax error, unexpected 'Foto' (T_STRING), expecting ',' or ';' in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 62
+[06-Jun-2018 22:04:55 UTC] PHP Warning:  include_once(../controller/dao/conexao.php): failed to open stream: No such file or directory in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 48
+[06-Jun-2018 22:04:55 UTC] PHP Warning:  include_once(): Failed opening '../controller/dao/conexao.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 48
+[06-Jun-2018 22:04:55 UTC] PHP Notice:  Undefined variable: servidor in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 50
+[06-Jun-2018 22:04:55 UTC] PHP Notice:  Undefined variable: usuariobanco in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 50
+[06-Jun-2018 22:04:55 UTC] PHP Notice:  Undefined variable: senhabanco in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 50
+[06-Jun-2018 22:04:55 UTC] PHP Notice:  Undefined variable: bancosrv in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 51
+[06-Jun-2018 22:12:39 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 58
+[06-Jun-2018 22:12:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 58
+[06-Jun-2018 22:12:39 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 60
+[06-Jun-2018 22:14:36 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 58
+[06-Jun-2018 22:14:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 58
+[06-Jun-2018 22:14:36 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 60
+[07-Jun-2018 03:35:36 UTC] PHP Notice:  Undefined index: iduser in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 4
+[07-Jun-2018 03:35:36 UTC] PHP Notice:  Undefined variable: sql in /home/u894051160/public_html/gestaochamados-v2/assets/cropper/crop-image.php on line 60
